@@ -1,0 +1,60 @@
+* {
+  font-family: verdana;
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+#mynavbar {}
+
+.navbar-default {
+
+  	background-color: #FAF33F;
+	position: relative;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin-bottom: 0px;
+}
+
+#nav-list {
+  margin-top: 0px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #FE4DE1;
+}
+
+#nav-list a {
+  color: #000000;
+  text-align: center;
+  font-size: 1.7em;
+  margin-top: 0;
+  vertical-align: center;
+}
+
+hr {
+	border-color: #000000;
+	border-width: 2px;
+}
+
+#main {
+	font-size: 2em;
+	font-style: bold;
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+#text
+{
+	padding: 15px;
+	background-color: magenta;
+	margin: 0;
+
+}
+
+h1 {
+	font-size: 1.5em;
+	margin-top: 0px;
+}
